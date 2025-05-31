@@ -79,6 +79,7 @@ Port: Choose the correct port
 
 
 # end
-![goost fase](https://github.com/user-attachments/assets/363d69c9-cf4d-4d4d-afb0-6c43fae56890)
+![goost fase](https://github.com/user-attachments/assets/240a771a-7620-4323-8c2e-825f120c3634)
+
 
 **Use it legally..**
