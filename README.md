@@ -3,6 +3,7 @@
 A program to jam all things that operate at a frequency of 2.4 KHz and cut off and stop their work 
 But it is designed to work with ESP32 C3 to be small in size
 
+**Note: It can be run on the rest of the esp32.Just make sure that the link works for you**
 # Bonding steps
 <table>
   <thead>
