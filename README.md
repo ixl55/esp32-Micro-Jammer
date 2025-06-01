@@ -69,7 +69,7 @@ CH340 driver :[ch340](https://sparks.gogo.co.nz/ch340.html)
 
  CP210x driver :[CP210x](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers)
 
-5. Board Settings
+4. Board Settings
 Go to the Tools menu and then adjust the following settings:
 
 Board: Select ESP32C3 Dev Module
