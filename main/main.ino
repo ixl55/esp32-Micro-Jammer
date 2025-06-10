@@ -7,7 +7,18 @@
  * Use of this software for any unauthorized interference with
  * wireless communications is strictly prohibited by law.
  */
-
+/*
+   I'm not in your network.
+   I *am* your network.
+   — signed: ixl55
+   _      _ _____ _____ 
+  (_)    | | ____| ____|
+   ___  _| | |__ | |__  
+  | \ \/ / |___ \|___ \ 
+  | |>  <| |___) |___) |
+  |_/_/\_\_|____/|____/ 
+                      
+ */
 #include <Arduino.h>
 #include <SPI.h>
 #include <nRF24L01.h>
